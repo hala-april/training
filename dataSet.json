@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "age": 29,
+      "isActive": true,
+      "roles": ["admin", "editor"],
+      "address": {
+        "street": "123 Maple Street",
+        "city": "Springfield",
+        "state": "IL",
+        "zip": "62701"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "email": "bob.smith@example.com",
+      "age": 34,
+      "isActive": false,
+      "roles": ["viewer"],
+      "address": {
+        "street": "456 Oak Avenue",
+        "city": "Riverside",
+        "state": "CA",
+        "zip": "92501"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Catherine Lee",
+      "email": "catherine.lee@example.com",
+      "age": 22,
+      "isActive": true,
+      "roles": ["editor"],
+      "address": {
+        "street": "789 Pine Lane",
+        "city": "Madison",
+        "state": "WI",
+        "zip": "53703"
+      }
+    }
+  ]
+  
